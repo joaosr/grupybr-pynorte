@@ -32,13 +32,13 @@ help:
 	@echo '                                                                       '
 
 html:
-	LC_ALL=pt_BR.UTF-8 $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 regenerate:
-	LC_ALL=pt_BR.UTF-8 $(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
 ifdef PORT
@@ -49,9 +49,9 @@ endif
 
 devserver:
 ifdef PORT
-	$(BASEDIR)/develop_server.sh start $(PORT)
+	$(BASEDIR)/develop_server.sh restart $(PORT)
 else
-	$(BASEDIR)/develop_server.sh start
+	$(BASEDIR)/develop_server.sh restart
 endif
 
 stopserver:
@@ -63,7 +63,17 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 github: publish
-	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	ghp-import -m "Generate PyNorte site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
+
+travis: publish
+	git config --global user.email "pynorte@googlegroups.com"
+	git config --global user.name "PyNorte Travis Bot"
+	ghp-import -m "Updated PyNorte site." -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	git push -fq origin $(GITHUB_PAGES_BRANCH) > /dev/null
+
+ping:
+	curl -Is http://www.google.com/webmasters/tools/ping?sitemap=http://PyNorte.github.io/grupybr-pynorte/sitemap.xml | grep "200 OK" || echo "Erro pinging Google"
+	curl -Is http://www.bing.com/webmaster/ping.aspx?siteMap=http://PyNorte.github.io/grupybr-pynorte/sitemap.xml | grep "200 OK" || echo "Erro pinging Bing"
 
 .PHONY: html help clean regenerate serve devserver publish github
