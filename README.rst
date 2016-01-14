@@ -3,6 +3,10 @@ PyNorte
 
 Este é o site da comunidade PyNorte, baseado no site desenvolvido pelo Grupy-DF.
 
+URL Github Pages: http://pynorte.github.io/grupybr-pynorte/
+
+URL de produção: http://pynorte.python.org.br/
+
 Requerimentos:
 
 - Python >= 2.7;
