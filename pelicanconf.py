@@ -26,7 +26,7 @@ META_KEYWORDS = ['pynorte', 'python', 'amazonas', 'desenvolvimento',
                  'acre', 'para', 'tocantins', 'rondonia', 'roraima', 'amapa']
 
 # Referências à Github
-GITHUB_REPO = "https://github.com/lskbr/grupybr-pynorte"
+GITHUB_REPO = "https://github.com/PyNorte/grupybr-pynorte"
 GITHUB_BRANCH = "master"
 
 # Imagens
