@@ -4,6 +4,7 @@ language: python
 #  only:
 #  - master
 before_install:
+- pip install pip --upgrade
 - openssl aes-256-cbc -K $encrypted_9da95da734b6_key -iv $encrypted_9da95da734b6_iv -in publish-key.enc -out ~/.ssh/publish-key -d
 - chmod u=rw,og= ~/.ssh/publish-key
 - echo "Host github.com" >> ~/.ssh/config
