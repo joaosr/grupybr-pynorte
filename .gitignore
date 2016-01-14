@@ -57,3 +57,7 @@ docs/_build/
 target/
 output/
 cache/
+.idea
+publish-key
+publish-key.pub
+
