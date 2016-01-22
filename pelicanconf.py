@@ -127,6 +127,10 @@ MEMBROS = OrderedDict((
     ("Adriano Praia", {
         "github": "adrianopraia",
     }),
+    ("Fábio C. Barrionuevo da Luz", {
+        "twitter": "@luzfcb",
+        "github": "luzfcb"
+    }),
     ("Marcos Thomaz", {
         "twitter": "@marcosthomazs",
         "github": "thomazs",
