@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Norte</title><link>http://pynorte.python.org.br/</link><description></description><atom:link href="http://pynorte.python.org.br/blog/feeds.rss" rel="self"></atom:link><lastBuildDate>Wed, 13 Jan 2016 23:14:00 -0400</lastBuildDate><item><title>Primeiros Passos</title><link>http://pynorte.python.org.br/blog/primeiros-passos</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Finalmente começamos a orgnanizar nosso grupo!
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Norte</title><link>http://pynorte.python.org.br/</link><description></description><atom:link href="http://pynorte.python.org.br/blog/feeds.rss" rel="self"></atom:link><lastBuildDate>Sat, 13 Feb 2016 14:41:00 -0400</lastBuildDate><item><title>Segundo Hangout</title><link>http://pynorte.python.org.br/blog/segundo-hangout</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;O primeiro Hangout de nosso grupo foi realizado em 06/02/2016.
+Se você não pôde assistir, clique &lt;a class="reference external" href="https://youtu.be/P2Doz7QMmZI"&gt;aqui&lt;/a&gt; para assistir a gravação no YouTube.&lt;/p&gt;
+&lt;p&gt;Já começamos a organizar o segundo hangout!
+A data prevista é 05.03.2016 (primeiro sábado do mês de março). Horário:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;13:00 h Rio Branco (GMT-5)&lt;/li&gt;
+&lt;li&gt;14:00 h Manaus / Boa Vista / Porto Velho (GMT-4)&lt;/li&gt;
+&lt;li&gt;15:00 h Belém / Palmas / Macapá (GMT-3)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Este hangout também será gravado e o link disponibilizado.&lt;/p&gt;
+&lt;p&gt;Pauta:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Docker - João Soares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ainda temos espaço para outras apresentações!
+Envie suas ideis e propostas para nosso grupo no Telegram.&lt;/p&gt;
+&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nilo Menezes</dc:creator><pubDate>Sat, 13 Feb 2016 14:41:00 -0400</pubDate><guid>tag:pynorte.python.org.br,2016-02-13:blog/segundo-hangout</guid><category>site</category></item><item><title>Primeiros Passos</title><link>http://pynorte.python.org.br/blog/primeiros-passos</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Finalmente começamos a orgnanizar nosso grupo!
 O site já está no ar, assim como nossa lista de mensagens.&lt;/p&gt;
 &lt;p&gt;O primeiro objetivo é organizar uma agenda de hangouts.
 A data sugerida é que sejam no premeiro sábado de cada mês.
