@@ -46,8 +46,8 @@ PYGMENTS_STYLE = "perldoc"
 # Navbar Links da Home Page
 NAVBAR_HOME_LINKS = [
     # {
-    #     "title": "Comunidade",
-    #     "href": "comunidade",
+    #      "title": "Comunidade",
+    #      "href": "comunidade",
     # },
     {
         "title": "Membros",
@@ -86,6 +86,11 @@ SOCIAL_LINKS = (
         "href": "https://groups.google.com/d/forum/pynorte",
         "icon": "fa-envelope",
         "text": "Lista de e-mail",
+    },
+    {
+        "href": "https://github.com/PyNorte",
+        "icon": "fa-github",
+        "text": "PyNorte no GitHub",
     },
     {
         "href": "https://github.com/grupydf",
@@ -177,12 +182,12 @@ MALT_HOME = [
                     "lists, grupo no telegram e ocasionalmente são " +\
                     "promovidos encontros diversos, como almoços, " +\
                     "<em>coding dojos</em>, hangouts e palestras. ",
-                # "buttons": [
-                #     {
-                #         "text": "Saiba Mais",
-                #         "href": "comunidade",
-                #     },
-                # ],
+                "buttons": [
+                     {
+                         "text": "Blog",
+                         "href": "blog",
+                     },
+                ],
             },
             {
                 "title": "Membros",
@@ -210,18 +215,19 @@ MALT_HOME = [
                     },
                 ]
             },
-            # {
-            #     "title": "Projetos",
-            #     "icon": "fa-briefcase",
-            #     "text": " Atualmente o PyNorte possui poucos projetos em andamento:" +\
-            #             "Traduções do Django-docs e Python on Campus.",
-            #     "buttons": [
-            #         {
-            #             "text": "Mais detalhes",
-            #             "href": "projetos",
-            #         },
-            #     ],
-            # },
+            {
+                "title": "Hangouts",
+                "icon": "fa-wechat",
+                "text": "Realizados no primeiro sábado de cada mês. "
+                        "Nós organizamos e apresentamos temas diversos relacionados com Python."
+                        " Participe!",
+                "buttons": [
+                    {
+                        "text": "Mais detalhes",
+                        "href": "blog/terceiro-hangout/",
+                    },
+                ],
+            },
         ]
     },
 
