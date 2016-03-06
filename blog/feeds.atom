@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Norte</title><link href="http://pynorte.python.org.br/" rel="alternate"></link><link href="http://pynorte.python.org.br/blog/feeds.atom" rel="self"></link><id>http://pynorte.python.org.br/</id><updated>2016-02-13T14:41:00-04:00</updated><entry><title>Segundo Hangout</title><link href="http://pynorte.python.org.br/blog/segundo-hangout" rel="alternate"></link><updated>2016-02-13T14:41:00-04:00</updated><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-02-13:blog/segundo-hangout</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;O primeiro Hangout de nosso grupo foi realizado em 06/02/2016.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Norte</title><link href="http://pynorte.python.org.br/" rel="alternate"></link><link href="http://pynorte.python.org.br/blog/feeds.atom" rel="self"></link><id>http://pynorte.python.org.br/</id><updated>2016-03-06T09:17:00-04:00</updated><entry><title>Terceiro Hangout</title><link href="http://pynorte.python.org.br/blog/terceiro-hangout" rel="alternate"></link><updated>2016-03-06T09:17:00-04:00</updated><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-03-06:blog/terceiro-hangout</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;Realizamos nosso segundo hangout ontem, 05/03/2016.
+Se você não pôde assistir, clique &lt;a class="reference external" href="https://www.youtube.com/watch?v=v0ZeYYygJcU"&gt;aqui&lt;/a&gt; para assistir a gravação no YouTube.&lt;/p&gt;
+&lt;div class="section" id="proximo-hangout"&gt;
+&lt;h2&gt;Próximo Hangout&lt;/h2&gt;
+&lt;p&gt;Já começamos a organizar o terceiro hangout!
+A data prevista é &lt;strong&gt;02/04/2016&lt;/strong&gt; (primeiro sábado do mês de abril). Horário:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;13:00 h Rio Branco (GMT-5)&lt;/li&gt;
+&lt;li&gt;14:00 h Manaus, Boa Vista, Porto Velho (GMT-4)&lt;/li&gt;
+&lt;li&gt;15:00 h Belém, Palmas, Macapá (GMT-3)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Este hangout também será gravado e o link disponibilizado.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pauta"&gt;
+&lt;h2&gt;Pauta&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;PyNorte - Nilo Menezes (organização, próximas ações)&lt;/li&gt;
+&lt;li&gt;Programação Assíncrona no Python 3.5 - Nilo Menezes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A imagem para chamadas e divulgação:&lt;/p&gt;
+&lt;img alt="" src="/images/hc/hc3.png" style="width: 450px; height: auto; max-width: 100%;"/&gt;
+&lt;p&gt;Lembrando que esta imagem é criada por um script do nosso grupo: &lt;a class="reference external" href="https://github.com/PyNorte/aviso"&gt;avisos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ainda temos espaço para outras apresentações!
+Envie suas ideis e propostas para nosso grupo no &lt;a class="reference external" href="https://telegram.me/joinchat/COYq6QM8RkebVUVK1WxRHQ"&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="dicas-para-quem-vai-participar-do-hangout"&gt;
+&lt;h2&gt;Dicas para quem vai participar do Hangout&lt;/h2&gt;
+&lt;p&gt;No último hangout nós tivemos problemas com o som e também com o próprio uso do Hangouts On Air.
+O check list abaixo vai nos ajudar a melhorar a qualidade do som e os próximos hangouts.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Use um headset. Usar o microfone embutido do computador é arriscado, pois pode causar um efeito de &lt;a class="reference external" href="https://pt.wikipedia.org/wiki/Microfonia"&gt;microfonia&lt;/a&gt;, principalmente se você usar alto falantes.&lt;/li&gt;
+&lt;li&gt;O ambiente deve estar iluminado o suficiente para que você possa se ver na miniatura do Hangout.&lt;/li&gt;
+&lt;li&gt;Escolha um ambiente sem barulhos da rua, de preferência longe da janela. Peça para não ser perturbado durante o hangout e principalmente não deixe que atendam o telefone perto do microfone.&lt;/li&gt;
+&lt;li&gt;Lembre-se que tudo que falamos é gravado.&lt;/li&gt;
+&lt;li&gt;Para participar do hangout, você precisa ter uma câmera.&lt;/li&gt;
+&lt;li&gt;Se mostrar algo no computador, certifique-se que as fontes sejam grandes o suficiente. Tamanho 16 ou maior é recomendado. O tamanho ideal para o vídeo vai parecer muito grande na tela, mas vai ficar bom no vídeo.&lt;/li&gt;
+&lt;li&gt;Embora uma apresentação com slides não seja obrigatória, ela pode ajudar muito na explicação e principalmente quem assistirá o vídeo mais tarde.&lt;/li&gt;
+&lt;li&gt;Software do Hangouts On Air do Google é muito bom, mas a interface é complicada. O Hangouts On Air é diferente de um Hangout normal, pois é gravado e transmitido ao vivo pelo YouTube. Se você estiver organizando o hangout, faça vários testes com um amigo antes do horário da gravação. O Hangout disponibiliza um link público para todos verem o vídeo, mas você também precisa enviar convites para as pessoas que participarão do Hangout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</summary><category term="site"></category></entry><entry><title>Segundo Hangout</title><link href="http://pynorte.python.org.br/blog/segundo-hangout" rel="alternate"></link><updated>2016-02-13T14:41:00-04:00</updated><author><name>Nilo Menezes</name></author><id>tag:pynorte.python.org.br,2016-02-13:blog/segundo-hangout</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;O primeiro Hangout de nosso grupo foi realizado em 06/02/2016.
 Se você não pôde assistir, clique &lt;a class="reference external" href="https://youtu.be/P2Doz7QMmZI"&gt;aqui&lt;/a&gt; para assistir a gravação no YouTube.&lt;/p&gt;
 &lt;p&gt;Já começamos a organizar o segundo hangout!
 A data prevista é 05.03.2016 (primeiro sábado do mês de março). Horário:&lt;/p&gt;
