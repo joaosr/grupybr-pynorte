@@ -78,7 +78,7 @@ NAVBAR_BLOG_LINKS = NAVBAR_HOME_LINKS + [
 # Links sociais do rodapé
 SOCIAL_LINKS = (
     {
-        "href": "https://telegram.me/joinchat/COYq6QM8RkebVUVK1WxRHQ",
+        "href": "https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA",
         "icon": "fa-paper-plane",
         "text": "Telegram",
     },
