@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Norte</title><link>http://pynorte.python.org.br/</link><description></description><atom:link href="http://pynorte.python.org.br/blog/feeds.rss" rel="self"></atom:link><lastBuildDate>Sun, 06 Mar 2016 09:17:00 -0400</lastBuildDate><item><title>Terceiro Hangout</title><link>http://pynorte.python.org.br/blog/terceiro-hangout</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Realizamos nosso segundo hangout ontem, 05/03/2016.
+<rss version="2.0"><channel><title>Python Norte</title><link>http://pynorte.python.org.br/</link><description></description><lastBuildDate>Sun, 06 Mar 2016 09:17:00 -0400</lastBuildDate><item><title>Terceiro Hangout</title><link>http://pynorte.python.org.br/blog/terceiro-hangout</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Realizamos nosso segundo hangout ontem, 05/03/2016.
 Se você não pôde assistir, clique &lt;a class="reference external" href="https://www.youtube.com/watch?v=v0ZeYYygJcU"&gt;aqui&lt;/a&gt; para assistir a gravação no YouTube.&lt;/p&gt;
 &lt;div class="section" id="proximo-hangout"&gt;
 &lt;h2&gt;Próximo Hangout&lt;/h2&gt;
@@ -39,7 +39,7 @@ O check list abaixo vai nos ajudar a melhorar a qualidade do som e os próximos 
 &lt;li&gt;Software do Hangouts On Air do Google é muito bom, mas a interface é complicada. O Hangouts On Air é diferente de um Hangout normal, pois é gravado e transmitido ao vivo pelo YouTube. Se você estiver organizando o hangout, faça vários testes com um amigo antes do horário da gravação. O Hangout disponibiliza um link público para todos verem o vídeo, mas você também precisa enviar convites para as pessoas que participarão do Hangout.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;
-&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nilo Menezes</dc:creator><pubDate>Sun, 06 Mar 2016 09:17:00 -0400</pubDate><guid>tag:pynorte.python.org.br,2016-03-06:blog/terceiro-hangout</guid><category>site</category></item><item><title>Segundo Hangout</title><link>http://pynorte.python.org.br/blog/segundo-hangout</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;O primeiro Hangout de nosso grupo foi realizado em 06/02/2016.
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nilo Menezes</dc:creator><pubDate>Sun, 06 Mar 2016 09:17:00 -0400</pubDate><guid isPermaLink="false">tag:pynorte.python.org.br,2016-03-06:blog/terceiro-hangout</guid><category>site</category></item><item><title>Segundo Hangout</title><link>http://pynorte.python.org.br/blog/segundo-hangout</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;O primeiro Hangout de nosso grupo foi realizado em 06/02/2016.
 Se você não pôde assistir, clique &lt;a class="reference external" href="https://youtu.be/P2Doz7QMmZI"&gt;aqui&lt;/a&gt; para assistir a gravação no YouTube.&lt;/p&gt;
 &lt;p&gt;Já começamos a organizar o segundo hangout!
 A data prevista é 05.03.2016 (primeiro sábado do mês de março). Horário:&lt;/p&gt;
@@ -55,7 +55,7 @@ A data prevista é 05.03.2016 (primeiro sábado do mês de março). Horário:&lt
 &lt;/ul&gt;
 &lt;p&gt;Ainda temos espaço para outras apresentações!
 Envie suas ideis e propostas para nosso grupo no Telegram.&lt;/p&gt;
-&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nilo Menezes</dc:creator><pubDate>Sat, 13 Feb 2016 14:41:00 -0400</pubDate><guid>tag:pynorte.python.org.br,2016-02-13:blog/segundo-hangout</guid><category>site</category></item><item><title>Primeiros Passos</title><link>http://pynorte.python.org.br/blog/primeiros-passos</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Finalmente começamos a orgnanizar nosso grupo!
+&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nilo Menezes</dc:creator><pubDate>Sat, 13 Feb 2016 14:41:00 -0400</pubDate><guid isPermaLink="false">tag:pynorte.python.org.br,2016-02-13:blog/segundo-hangout</guid><category>site</category></item><item><title>Primeiros Passos</title><link>http://pynorte.python.org.br/blog/primeiros-passos</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Finalmente começamos a orgnanizar nosso grupo!
 O site já está no ar, assim como nossa lista de mensagens.&lt;/p&gt;
 &lt;p&gt;O primeiro objetivo é organizar uma agenda de hangouts.
 A data sugerida é que sejam no premeiro sábado de cada mês.
@@ -76,4 +76,4 @@ Devemos ter tempo para nos apresentarmos e conversar um pouco também.&lt;/p&gt;
 &lt;li&gt;Apresentação de Gestão da Data e Hora do Python com fusos horários - Nilo Menezes&lt;/li&gt;
 &lt;li&gt;Decidir as próximas apresentações&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nilo Menezes</dc:creator><pubDate>Wed, 13 Jan 2016 23:14:00 -0400</pubDate><guid>tag:pynorte.python.org.br,2016-01-13:blog/primeiros-passos</guid><category>site</category></item></channel></rss>
+&lt;p&gt;Duração: entre 1h e 1:30h&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nilo Menezes</dc:creator><pubDate>Wed, 13 Jan 2016 23:14:00 -0400</pubDate><guid isPermaLink="false">tag:pynorte.python.org.br,2016-01-13:blog/primeiros-passos</guid><category>site</category></item></channel></rss>
