@@ -168,6 +168,10 @@ MEMBROS = OrderedDict((
             "href": "https://br.linkedin.com/in/breno-thales-2aa8631b/pt",
         }
     }),
+    ("João Soares", {
+        "twitter": "@joao_mnl",
+        "github": "joaosr"
+    }),
 ))
 
 MALT_HOME = [
